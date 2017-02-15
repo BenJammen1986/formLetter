@@ -1,0 +1,12 @@
+#letter {
+  font-family: 'Kaushan Script', cursive;
+  font-size: 18px;
+  display: none;
+  background-image: url("http://www.myfreetextures.com/wp-content/uploads/2014/11/old-yellow-and-brown-parchment-paper.jpg");
+  background-size: 1200px 1280px;
+  background-repeat: no-repeat;
+  height: 1200px;
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
